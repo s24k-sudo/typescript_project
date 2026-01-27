@@ -12,3 +12,7 @@ var sname = ["Soham", "Rohan", "Kartik", "Neha"];
 console.log("Marks: ", marks, "SNames: ", sname);
 var Employee = [101, "Soham"];
 console.log("Employee ID: ", Employee[0], " Employee Name: ", Employee[1]);
+var data = 10;
+data = "Soham";
+data = true;
+console.log("Data: ", data);
