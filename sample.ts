@@ -19,3 +19,9 @@ let data:any=10;
 data="Soham";
 data=true;
 console.log("Data: ",data);
+
+let response:any;
+response=200;
+response="OK";
+response=true;
+console.log("Response: ",response);

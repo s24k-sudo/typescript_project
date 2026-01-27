@@ -16,3 +16,8 @@ var data = 10;
 data = "Soham";
 data = true;
 console.log("Data: ", data);
+var response;
+response = 200;
+response = "OK";
+response = true;
+console.log("Response: ", response);
