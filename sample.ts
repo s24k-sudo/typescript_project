@@ -25,3 +25,5 @@ response=200;
 response="OK";
 response=true;
 console.log("Response: ",response);
+
+export {};
