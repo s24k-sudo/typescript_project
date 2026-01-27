@@ -3,3 +3,7 @@ console.log(msg);
 var age = 25;
 var Pname = "Soham";
 console.log("My name is " + Pname + " and my age is " + age);
+var country = "India";
+var population = 140;
+var isCapital = false;
+console.log("Country: ".concat(country, ", Population: ").concat(population, " crores, Is Capital: ").concat(isCapital));
