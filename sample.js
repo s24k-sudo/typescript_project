@@ -7,3 +7,6 @@ var country = "India";
 var population = 140;
 var isCapital = false;
 console.log("Country: ".concat(country, ", Population: ").concat(population, " crores, Is Capital: ").concat(isCapital));
+var marks = [90, 20, 30, 40];
+var sname = ["Soham", "Rohan", "Kartik", "Neha"];
+console.log("Marks: ", marks, "SNames: ", sname);
