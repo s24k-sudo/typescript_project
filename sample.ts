@@ -12,3 +12,6 @@ let marks:number[]=[90,20,30,40];
 let sname:string[]=["Soham","Rohan","Kartik","Neha"];
 console.log("Marks: ",marks ,"SNames: ",sname);
 
+let Employee:[number,string]=[101,"Soham"];
+console.log("Employee ID: ",Employee[0]," Employee Name: ",Employee[1]);
+

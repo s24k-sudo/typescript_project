@@ -10,3 +10,5 @@ console.log("Country: ".concat(country, ", Population: ").concat(population, " c
 var marks = [90, 20, 30, 40];
 var sname = ["Soham", "Rohan", "Kartik", "Neha"];
 console.log("Marks: ", marks, "SNames: ", sname);
+var Employee = [101, "Soham"];
+console.log("Employee ID: ", Employee[0], " Employee Name: ", Employee[1]);
